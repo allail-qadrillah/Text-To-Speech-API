@@ -15,7 +15,7 @@ def main():
  
   return {'status' : True,
          '/speak' : {
-           'text' : 'string',
+           'text' : 'strings',
            'lang' : languages 
          }}
 
